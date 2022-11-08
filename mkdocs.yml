@@ -1,6 +1,17 @@
 site_name: VMware tesztkörnyezet kialakítása
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/atiradeon86
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/atiradeon86
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/atiradeon86
+
+  analytics:
+    provider: google
+    property: G-FX3LEFY8EX
 theme:
-  languauge: hu
   name: material
   features:
     - navigation.tabs
@@ -15,4 +26,3 @@ nav:
     - A vSphere főbb funkciói: vmware/page-4.md
     - A saját teszt környezet: vmware/page-5.md
     - Bemutató Videók : vmware/page-6.md
-   
