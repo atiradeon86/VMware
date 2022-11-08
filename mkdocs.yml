@@ -1,0 +1,19 @@
+site_name: VMware tesztkörnyezet kialakítása
+theme:
+  languauge: hu
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top  
+nav:
+  - Tartalom:
+    - index.md
+    - Út a nested virtualizációhoz: vmware/page-1.md
+    - Nested virtualizáció: vmware/page-2.md
+    - Virutalizáció, VMware alapok: vmware/page-3.md
+    - A vSphere főbb funkciói: vmware/page-4.md
+    - A saját teszt környezet: vmware/page-5.md
+    - Bemutató Videók : vmware/page-6.md
+    
+   
