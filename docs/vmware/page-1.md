@@ -39,4 +39,4 @@ Nálam az iSCSI lett a befutó megoldás. Egy Windows Server 2019-et használtam
 
 Itt már eljutottam arra a pontra, hogy tudtam egy alap ESXi-vel ismerkedni, viszont minden más komolyabb dolog kipróbálásához több ESXi hostra volt szükségem.
 
-Itt jött a képbe a Nested virtualizáció, mint lehetséges opció...
+Itt jött a képbe a Nested virtualizáció, mint lehetséges opció.
