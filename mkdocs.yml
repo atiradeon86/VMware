@@ -1,4 +1,5 @@
 site_name: VMware tesztkörnyezet kialakítása
+site_url: https://atiradeon86.github.io/VMware/
 extra:
   social:
     - icon: fontawesome/brands/github
