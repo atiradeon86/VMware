@@ -18,9 +18,11 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.top  
+  favicon: vmware/images/favicon.png
+  logo: vmware/images/vmware-logo.png
   palette:
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
+    primary: blue
+    scheme: slate
 nav:
   - Tartalom:
     - index.md
