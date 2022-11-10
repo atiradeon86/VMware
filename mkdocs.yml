@@ -21,9 +21,6 @@ theme:
   palette:
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        toggle:
-          icon: material/brightness-4
-          name: Switch to system preference
 nav:
   - Tartalom:
     - index.md
