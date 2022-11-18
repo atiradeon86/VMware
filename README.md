@@ -2,7 +2,7 @@
 
 VMware tesztkörnyezet kialakítása, vSphere alapok bemutatása
 
-https://atiradeon86.github.io/VMware/
+https://vmware.bryan86.cloud/
 
 Local Render Example
 
